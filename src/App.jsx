@@ -88,7 +88,7 @@ const App = () => {
   return (
     <div className="min-h-screen flex flex-col items-center py-10 px-4">
       <div className="w-full max-w-4xl"> {/* 70% of the page width */}
-        <h1 className="text-5xl font-bold text-gray-400 text-center mb-10">IIITN</h1>
+        <h1 className="text-5xl font-bold text-gray-900 text-center mb-10">IIITN</h1>
         <h1 className="text-4xl font-bold mb-5 text-gray-800 text-center">CG CALCULATOR</h1>
 
 
